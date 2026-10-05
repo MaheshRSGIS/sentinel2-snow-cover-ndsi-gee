@@ -25,6 +25,6 @@ METHODOLOGY:
 
 TOOLS: Google Earth Engine, JavaScript, Sentinel-2, Remote Sensing, GIS
 
-AUTHOR: Mahesh Majumder, M.Sc. Remote Sensing & GIS
+AUTHOR: Mahesh Majumder, M.Sc. Remote Sensing & GIS.
 
-RESEARCH INTEREST: Cryosphere, Glaciology, Geomorphology, Hydrology and Himalayan Environmental Changeer
+RESEARCH INTEREST: Cryosphere, Glaciology, Geomorphology, Hydrology.
